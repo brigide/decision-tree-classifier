@@ -1,8 +1,18 @@
-# decision-tree-classifier
+# Decision-tree-classifier
 
-Lab2 - Inteligencia Artificial
+Atividade de Laborátorio 2
 
 Bruno Brigide RA: 22.119.047-3
-
 Vitor Soares RA: 22.119.043-2
 
+Árvore de decisão e gráfico de confusão "Critério de Provas":
+
+![alt text](imagens/arvoreProvas.jpeg)
+
+![alt text](imagens/graficoProvas.jpeg)
+
+Árvore de decisão e gráfico de confusão "Bank":
+
+![alt text](imagens/arvoreBank.jpeg)
+
+![alt text](imagens/graficoBank.jpeg)
